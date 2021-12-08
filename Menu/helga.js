@@ -6,14 +6,14 @@ Silahkan Pilih Untuk Menampilkan Menu Bot
     『 BOT INFO 』
 
 *࿊⃟〽️* Device : Poco X3 
-*࿊⃟〽️* Wa Version : 2.21.11.17
+*࿊⃟〽️* Wa Version : 2.21.23.23
 *࿊⃟〽️* OS Version : 11
 *࿊⃟〽️* MNC : 001
 *࿊⃟〽️* MCC : 510
 *࿊⃟〽️* Platfrom : ${os.platform()}
 *࿊⃟〽️* Mode : ${publik ? 'Public' : 'Self'}
 *࿊⃟〽️* Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}
-*࿊⃟〽️* Name Creator : Helga Zex
+*࿊⃟〽️* Name Creator : 𝑄𝑢𝑒𝑒𝑛 𝐵𝑂𝑇𝑍
 
 
        『 USER INFO 』
